@@ -82,19 +82,20 @@ Contains two R scripts utilizing Hayes' PROCESS Macro:
 ## Highlights
 **Spearman Rank Correlation Containing Regression Analysis Variables**
 
-<img width="2600" height="1700" alt="Rplot02" src="https://github.com/user-attachments/assets/b13ba4c4-d23b-4620-b3d3-348ed86e3e0d" />
+<img width="2600" height="1700" alt="645750828-b13ba4c4-d23b-4620-b3d3-348ed86e3e0d" src="https://github.com/user-attachments/assets/feb9692a-3356-4110-9bcc-c4d919c4574d" />
 
 _Note._ The numerical scores in the lower diagonal indicate Spearman's ρ. The colored shades in the upper diagonal also reflect ρ correlational strengths. The shades can be understood by referencing the vertical scale bar on the right. In the upper diagonal, * indicates p < .05, ** indicates p < .01, and *** indicates p < .001.
 
 
 **Stage 1 Classical Multiple Regression (H1a & H1b)**
-<img width="728" height="775" alt="Screenshot 2026-09-03 at 16 08 06" src="https://github.com/user-attachments/assets/525fa568-0bda-478c-befd-8639fc65e3af" />
+
+<img width="728" height="775" alt="645744596-525fa568-0bda-478c-befd-8639fc65e3af" src="https://github.com/user-attachments/assets/0f1fd9f7-ddd1-4c4e-b325-32e3a774ad8b" />
 
 _Note_ A significant b-weight indicates the semi-partial correlation is also significant. b represents unstandardized regression weights. sr2 represents the semi-partial correlation squared. LL and UL indicate the lower and upper limits of a confidence interval, respectively. * indicates p < .05. ** indicates p < .01.
 
 **Stage 2 Simple Mediation Analysis (H2a & H2b)**
 
-<img width="905" height="590" alt="image" src="https://github.com/user-attachments/assets/96283fd5-1153-4ac4-9a8a-cdaa3fb11acf" />
+<img width="905" height="590" alt="645748582-96283fd5-1153-4ac4-9a8a-cdaa3fb11acf" src="https://github.com/user-attachments/assets/7be50605-cacc-47c7-980c-5c89e56b7941" />
 
 _Note._ Indirect effect (a×b) CIs based on 5,000 bias-corrected bootstrap samples. HC4 standard errors used. In Model 1, X = Malicious Envy,
 M = Suppressive Escapism, Y = Depression. In Model 2, X = Benign Envy, M = Expansive Escapism, Y = Depression. Both models were
